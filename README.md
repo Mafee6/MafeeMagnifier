@@ -5,7 +5,7 @@
 
 ### How to use:
 Click to run .jar file if java installed.<br>
-You can download Java from https://adoptium.net/?variant=openjdk16<br>
+You can download Java from https://adoptium.net/?variant=openjdk17<br>
 The Magnifier will show a magnified verison of 100 pixels around your cursor.<br>
 Click the cross icon "x" in the control window to close MafeeMagnifier<br>
 
