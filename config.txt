@@ -1,0 +1,9 @@
+General Settings:
+UseEnhancementSettings:false
+New settings coming soon!
+
+Rendering Settings: (Enhancement Settings)
+Antialiasing:false
+Interpolation:false
+
+[Note] Enhancement Settings may cause flickering effect on some occurances.
